@@ -1,16 +1,32 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**IMRANDIL/IMRANDIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## नमस्ते 🙏, I'm Ali Imran Adil 
+## Full Stack Developer 👨‍💻
+## Network Engineer(CCNA) 👨‍💻
+## Google Cloud Associate Engineer 👨‍💻
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/LinkedIn-AliImranAdil-blue)](https://www.linkedin.com/in/ali-imran-adil-65a21842/)
+[![](https://img.shields.io/badge/Gmail-aliimranadil2%40gmail.com-red)](mailto:aliimranadil2@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const ashraf = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "web dev", "Networking"],
+    technologies:{
+        backEnd: ["nodejs", "express", "python"],
+        fronEnd: ["React", "Next"],
+        mobileApp: ["ReactNative", "Kotlin"],
+        database: ["mongo","mySql"],
+        serverless: ["mongo-realm","aws-lambda"],
+        devOps: ["AWS", "GCP", "AZURE"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+}
+```
+
+---
+⭐️ From [@IMRANDIL](https://github.com/IMRANDIL)
