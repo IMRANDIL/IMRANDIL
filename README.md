@@ -17,7 +17,7 @@ const ImranDil = {
     askMeAbout: ["app dev", "web dev", "Networking"],
     technologies:{
         backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["React", "Next"],
+        fronEnd: ["React", "Next", "BootStrap", "TailwindCss"],
         mobileApp: ["ReactNative", "Kotlin"],
         database: ["mongo","mySql"],
         serverless: ["mongo-realm","aws-lambda"],
