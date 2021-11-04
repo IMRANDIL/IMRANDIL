@@ -14,7 +14,8 @@
 ```javascript
 const ImranDil = {
     pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "Networking"],
+    isPassionate: true,
+    askMeAbout: ["app dev", "web dev", "Networking", "Google Cloud"],
     technologies:{
         backEnd: ["nodejs", "express", "python"],
         fronEnd: ["React", "Next", "BootStrap", "TailwindCss"],
