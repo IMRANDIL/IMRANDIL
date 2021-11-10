@@ -18,8 +18,8 @@ const ImranDil = {
     isPassionate: true,
     askMeAbout: ["app dev", "web dev", "Networking", "Google Cloud"],
     technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["React", "Next", "BootStrap", "TailwindCss"],
+        backEnd: ["nodejs", "express", "php" "python"],
+        fronEnd: ["React", "Next", "BootStrap", "TailwindCss", "WordPress"],
         mobileApp: ["ReactNative", "Kotlin"],
         database: ["mongo","mySql"],
         serverless: ["mongo-realm","aws-lambda"],
