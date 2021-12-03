@@ -4,6 +4,7 @@
 ## Full Stack Developer 👨‍💻
 ## Network Engineer(CCNA) 👨‍💻
 ## Google Cloud Associate Engineer 👨‍💻
+## AWS Solution Architect 👨‍💻
 ## Windows server Administrator (2019) 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-AliImranAdil-blue)](https://www.linkedin.com/in/ali-imran-adil-65a21842/)
