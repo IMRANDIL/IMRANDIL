@@ -17,12 +17,12 @@
 const ImranDil = {
     pronouns: "He" | "Him",
     isPassionate: true,
-    askMeAbout: ["app dev", "web dev", "Networking", "Google Cloud"],
+    askMeAbout: ["app dev", "web dev", "Networking", "Google Cloud", "AWS"],
     technologies:{
         backEnd: ["nodejs", "express", "php" "python"],
         frontEnd: ["React", "Next", "BootStrap", "TailwindCss", "WordPress"],
         mobileApp: ["ReactNative", "Kotlin"],
-        database: ["mongo","mySql"],
+        database: ["mongoDb","mySql", "Postgres"],
         serverless: ["mongo-realm","aws-lambda"],
         devOps: ["AWS", "GCP", "AZURE"],
         misc: ["Firebase", "Socket.IO"]
