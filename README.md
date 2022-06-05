@@ -19,12 +19,12 @@ const ImranDil = {
     isPassionate: true,
     askMeAbout: ["app dev", "web dev", "Networking", "Google Cloud", "AWS"],
     technologies:{
-        backEnd: ["nodejs", "express", "php" "python"],
+        backEnd: ["nodejs", "express"],
         frontEnd: ["React", "Next", "BootStrap", "TailwindCss", "WordPress"],
-        mobileApp: ["ReactNative", "Kotlin"],
+        mobileApp: ["ReactNative", "Flutter"],
         database: ["mongoDb","mySql", "Postgres"],
         serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "GCP", "AZURE"],
+        devOps: ["AWS", "GCP"],
         misc: ["Firebase", "Socket.IO"]
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
