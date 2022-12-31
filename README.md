@@ -19,7 +19,7 @@ const ImranDil = {
     isPassionate: true,
     askMeAbout: ["app dev", "web dev", "Networking", "Google Cloud", "AWS"],
     technologies:{
-        backEnd: ["nodejs", "express"],
+        backEnd: ["nodejs", "express",'nestjs','loopback4','go','python'],
         frontEnd: ["React", "Next", "BootStrap", "TailwindCss", "WordPress"],
         mobileApp: ["ReactNative", "Flutter"],
         database: ["mongoDb","mySql", "Postgres"],
