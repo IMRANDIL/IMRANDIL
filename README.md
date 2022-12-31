@@ -25,7 +25,7 @@ const ImranDil = {
         database: ["mongoDb","mySql", "Postgres"],
         serverless: ["mongo-realm","aws-lambda"],
         devOps: ["AWS", "GCP"],
-        misc: ["Firebase", "Socket.IO"]
+        misc: ["Firebase", "Socket.IO",'Docker']
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
