@@ -1,4 +1,4 @@
-<img align='right' src="https://giphy.com/gifs/salesforce-bear-computer-work-from-home-1GEATImIxEXVR79Dhk" width="230">
+<img align='right' src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="230">
 
 ## नमस्ते 🙏, I'm Ali Imran Adil 
 ## Full Stack Developer 👨‍💻
