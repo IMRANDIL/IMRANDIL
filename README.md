@@ -14,7 +14,7 @@
 const ImranDil = {
     pronouns: "He" | "Him",
     isPassionate: true,
-    askMeAbout: ["app dev", "web dev", "Networking", "Google Cloud", "AWS"],
+    askMeAbout: ["app dev", "web dev", "Networking", "Google Cloud", "AWS", "MERN"],
     technologies:{
         backEnd: ["nodejs", "express",'nestjs','loopback4','go','python'],
         frontEnd: ["React", "Next", "BootStrap", "TailwindCss", "WordPress"],
