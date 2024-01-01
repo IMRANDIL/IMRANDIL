@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="230" height="460">
+<img align='right' src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="230" height="260">
 
 ## नमस्ते 🙏, I'm Ali Imran Adil 
 ## Full Stack Developer 👨‍💻
