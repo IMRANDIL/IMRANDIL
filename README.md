@@ -2,10 +2,7 @@
 
 ## नमस्ते 🙏, I'm Ali Imran Adil 
 ## Full Stack Developer 👨‍💻
-## Network Engineer(CCNA) 👨‍💻
-## Google Cloud Associate Engineer 👨‍💻
-## AWS Solution Architect 👨‍💻
-## Windows server Administrator (2019) 👨‍💻
+## A Devops Engineer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-AliImranAdil-blue)](https://www.linkedin.com/in/%E2%9C%A8ali-imran-adil-65a21842/)
 [![](https://img.shields.io/badge/Gmail-aliimranadil2%40gmail.com-red)](mailto:aliimranadil2@gmail.com)
