@@ -2,8 +2,8 @@
 
 ## नमस्ते 🙏, I'm Ali Imran Adil 
 ## A Full Stack Engineer 👨‍💻
-## A Devops Engineer 👨‍💻
-## A Data Engineer 👨‍💻
+## An Aspiring Devops Engineer 👨‍💻
+## An Aspiring Data Engineer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-AliImranAdil-blue)](https://www.linkedin.com/in/%E2%9C%A8ali-imran-adil-65a21842/)
 [![](https://img.shields.io/badge/Gmail-aliimranadil2%40gmail.com-red)](mailto:aliimranadil2@gmail.com)
