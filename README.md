@@ -18,10 +18,10 @@ const ImranDil = {
     askMeAbout: ["app dev", "web dev", "Networking", "Google Cloud", "AWS", "MERN"],
     technologies:{
         backEnd: ["nodejs", "express",'nestjs','loopback4','go','python'],
-        frontEnd: ["React", "Next", "BootStrap", "TailwindCss", "WordPress"],
-        mobileApp: ["ReactNative", "Flutter"],
+        frontEnd: ["React", "Next", "BootStrap", "TailwindCss"],
+        mobileApp: ["ReactNative"],
         database: ["mongoDb","mySql", "Postgres"],
-        serverless: ["mongo-realm","aws-lambda"],
+        serverless: ["aws-lambda"],
         devOps: ["AWS", "GCP"],
         misc: ["Firebase", "Socket.IO",'Docker']
     },
