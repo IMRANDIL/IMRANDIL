@@ -20,7 +20,7 @@ const ImranDil = {
     technologies:{
         backEnd: ["nodejs", "express",'nestjs','loopback4','go','python'],
         frontEnd: ["React", "Next", "BootStrap", "TailwindCss"],
-        mobileApp: ["ReactNative"],
+        mobileApp: ["ReactNative", "JET PACK COMPOSE", "KOTLIN"],
         database: ["mongoDb","mySql", "Postgres"],
         serverless: ["aws-lambda"],
         devOps: ["AWS", "GCP"],
