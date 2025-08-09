@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="300" >
 
-## अस्सलामु अलैकुम ورحمة الله وبركاته 🤝, I'm Ali Imran Adil
+## अस्सलामु अलैकुम 🤝, I'm Ali Imran Adil
 ## A Full Stack Engineer 👨‍💻
 ## An Aspiring Devops Engineer 👨‍💻
 ## An Aspiring Data Engineer 👨‍💻
